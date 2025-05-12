@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/withbbang/github-action-tutorial/issues"
   },
-  "homepage": "https://github.com/withbbang/github-action-tutorial#readme"
+  "homepage": "https://github.com/withbbang/github-action-tutorial#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
